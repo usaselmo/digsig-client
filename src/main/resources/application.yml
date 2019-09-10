@@ -1,0 +1,7 @@
+debug: false
+spring:
+  profiles:
+    active: production
+  main:
+    banner-mode: 'OFF'
+  
